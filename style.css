@@ -1,0 +1,31 @@
+html {
+    font-family: helvetica;
+}
+body {
+    background-color: lightsalmon;
+    text-align: center;
+}
+#left {
+    width: 30%;
+    height: 400px;
+}
+#lewydolny {
+    background-color: darksalmon;
+    width: 30%;
+    height: 100px;
+}
+#right {
+    background-color: darksalmon;
+    width: 70%;
+    height: 500px;
+    overflow: auto;
+}
+#gora {
+    display: flex;
+}
+body {
+    margin: 0;
+}
+img {
+    width: 100%;
+}
